@@ -1,0 +1,6 @@
+import { createContext } from "react";
+
+export const LogContext = createContext<any>(null);
+
+
+
